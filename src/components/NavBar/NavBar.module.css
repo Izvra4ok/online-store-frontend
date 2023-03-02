@@ -1,0 +1,12 @@
+.logo{
+    font-size: 20px;
+    text-align: center;
+}
+.logo:hover,.logo:focus,.logo:active{
+    color:white;
+}
+
+.logoImage{
+    max-width: 50px;
+}
+
